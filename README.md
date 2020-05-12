@@ -14,6 +14,8 @@
 
 请在项目设置中设置 DINGTALK_WEBHOOK 的 Secret ，设置为获取的 Webhook
 
+发送的内容和选项在[这里](https://github.com/Galaxy-Studio-Team/DingTalk-Robot-Action/blob/master/.github/workflows/dingtalk.yml)修改
+
 ## 选项
 
 | 选项    | 类型   | 要求   | default | 描述                                    |
