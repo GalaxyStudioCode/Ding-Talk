@@ -2,6 +2,8 @@
 
 ![](https://github.com/fifsky/dingtalk-action/workflows/dingtalk/badge.svg)
 
+<iframe src="https://ghbtns.com/github-btn.html?user=-Studio-Team&repo=DingTalk-Robot-Action&type=star&count=true&size=large&v=2" frameborder="0" scrolling="0" width="160px" height="30px"></iframe>
+
 ## 钉钉自定义机器人消息
 
 ##  示例
@@ -29,3 +31,8 @@
 ## 自定义类型 Json格式
 
 [链接](https://ding-doc.dingtalk.com/doc#/serverapi2/qf2nxq)
+
+## 运行 Github Action 发送消息
+
+为了防止误提交等意外发生，项目设置为 Star 时发送，Star 按钮在右上角。如果懒或找不到，文章开头和这里都有一个也可以
+<iframe src="https://ghbtns.com/github-btn.html?user=-Studio-Team&repo=DingTalk-Robot-Action&type=star&count=true&size=large&v=2" frameborder="0" scrolling="0" width="160px" height="30px"></iframe>
