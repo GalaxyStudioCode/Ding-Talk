@@ -7,15 +7,15 @@ inputs:
     required: true
 
   type:
-    description: 'message type'
-    default: 'text'
+      description: 'type'
+    default: 'markdown'
 
   content:
-    description: 'message content'
+    description: 'content'
     required: true
 
   at:
-    description: 'at users'
+    description: 'at somebody'
 
 runs:
   using: 'docker'
