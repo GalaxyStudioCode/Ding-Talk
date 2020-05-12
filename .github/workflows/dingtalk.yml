@@ -16,5 +16,8 @@ jobs:
           type: markdown
           content: |
             # 星光不负赶路人，星际伴你前行！
+            ![icon](https://raw.githubusercontent.com/Galaxy-Studio-Team/DingTalk-Robot-Action/master/icon.png?token=APIY2YVKEOD6JNH4MGIZCHK6XJQUW)
+            [星际工作室官网：galaxy-studio.ga](galaxy-studio.ga)
+            加入我们：联系钉钉：botqipg 或 发送邮件至 galaxy_studio@outlook.com
             > 星际工作室智能推送
             
