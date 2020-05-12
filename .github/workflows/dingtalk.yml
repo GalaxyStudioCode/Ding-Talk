@@ -15,5 +15,6 @@ jobs:
           url: ${{ secrets.DINGTALK_WEBHOOK}}
           type: markdown
           content: |
-            # Hello ！
+            # 星光不负赶路人，星际伴你前行！
+            > 星际工作室智能推送
             
