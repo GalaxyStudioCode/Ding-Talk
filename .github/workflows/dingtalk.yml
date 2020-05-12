@@ -1,13 +1,8 @@
 name: dingtalk
 
 on:
-  status:
-  create:
   watch:
     types: [started]
-  push:
-  release:
-    types: [published]
 
 jobs:
   build:
