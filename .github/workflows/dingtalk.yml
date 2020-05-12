@@ -15,5 +15,5 @@ jobs:
           content: |
             # Tips
             ## Hello
-            > from github action message
-            > ^_^
+            >I'm from github action message
+            >Galaxy-Studio-Code is Testing me。
