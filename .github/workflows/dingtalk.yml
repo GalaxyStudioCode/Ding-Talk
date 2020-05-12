@@ -15,6 +15,5 @@ jobs:
           url: ${{ secrets.DINGTALK_WEBHOOK}}
           type: markdown
           content: |
-            # Tips
-            ## Galaxy-Studio-Code is Testing me.
+            # Hello
             
