@@ -1,43 +1,28 @@
-# Dingtalk robot action
+# DingTalk Robot Action
 
 ![](https://github.com/fifsky/dingtalk-action/workflows/dingtalk/badge.svg)
 
-Github action for sending dingtalk robot messages
+## 钉钉自定义机器人消息
 
-## ✨ Example Usage
+##  示例
 
 ```yml
-- name: dingtalk robot message
-uses: fifsky/dingtalk-action@master
-with:
-  url: ${{ secrets.DINGTALK_WEBHOOK}}
   type: markdown
   content: |
-    # Tips
-    ## Hello
-    > from github action message
-    > ^_^
+    # Hello
 ```
 
-🔐 Set your secrets here: `https://github.com/USERNAME/REPO/settings/secrets`.
+请在项目设置中设置 DINGTALK_WEBHOOK 的 Secret ，设置为获取的 Webhook
 
-**Result**
+## 选项
 
-![result of example ssh workflow](result.png)
+| 选项    | 类型   | 要求   | default | 描述                                    |
+| ------- | ------ | ------ | ------- | --------------------------------------- |
+| url     | string | 必选   | none    | Webhook 地址                            |
+| type    | string | 非必选 | text    | 消息类型，支持 Markdown、纯文本、custom |
+| content | string | 必选   | none    | 消息文本，支持 Markdown、纯文本和 Json  |
+| at      | string | 非必选 | none    | @用户                                   |
 
-## Options
+## 自定义类型 Json格式
 
-| option | type | required | default | description |
-| --- | --- | --- | --- | --- |
-|  url | string | Yes | none | The full address of dingtalk robot: https://oapi.dingtalk.com/robot/send?access_token=xxxxxx |
-| type | string | No | text | Dingtalk message type，support (text,markdown,custom) |
-| content | string | Yes | none |  Message content, text or markdown or json string |
-| at | string | No | none | At user,Use commas to separate, for example: 13812345678,13898754321 |
-
-if type is custom, content is dingtalk api json request body,for example
-
-> content: {"msgtype": "text", "text": {"content": "我就是我, 是不一样的烟火"}}
-
-## Dingtalk robot document
-
-https://ding-doc.dingtalk.com/doc#/serverapi2/qf2nxq
+[链接](https://ding-doc.dingtalk.com/doc#/serverapi2/qf2nxq)
