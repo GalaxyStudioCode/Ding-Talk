@@ -16,7 +16,7 @@ jobs:
           type: markdown
           content: |
             # 星光不负赶路人，星际伴你前行！
-            ![iconhttps://raw.githubusercontent.com/Galaxy-Studio-Team/sources/master/icon.png)
+            ![icon](https://raw.githubusercontent.com/Galaxy-Studio-Team/sources/master/icon.png)
             ## [星际工作室官网：galaxy-studio.ga](https://galaxy-studio.ga)
             > 星际工作室智能推送
             
