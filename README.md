@@ -37,6 +37,6 @@
 
 为了防止误提交等意外发生，项目设置为 Star 时发送，Star 按钮在右上角。如果找不到，他是长这样的
 
-![star](https://cdn.jsdelivr.net/gh/Galaxy-Studio-Team/sources@latest/DingTalk-Robot-Action/star.jpg)
+![star](https://raw.githubusercontent.com/Galaxy-Studio-Team/sources/master/DingTalk-Robot-Action/star.jpg)
 
 Star 后再次发送只要 Unstar 再 Star 就行了
