@@ -34,4 +34,7 @@
 ## 运行 Github Action 发送消息
 
 为了防止误提交等意外发生，项目设置为 Star 时发送，Star 按钮在右上角。如果找不到，他是长这样的
+
 ![star](https://raw.githubusercontent.com/Galaxy-Studio-Team/DingTalk-Robot-Action/master/star.jpg?token=APIY2YRQSL56XHYLBLMPZKC6XIIEG)
+
+Star 后再次发送只要 Unstar 再 Star 就行了
