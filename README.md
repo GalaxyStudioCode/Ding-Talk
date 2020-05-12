@@ -23,6 +23,9 @@
 | content | string | 必选   | none    | 消息文本，支持 Markdown、纯文本和 Json  |
 | at      | string | 非必选 | none    | @用户                                   |
 
+## Markdown 格式
+[教程](https://lab.github.com/githubtraining/communicating-using-markdown)
+
 ## 自定义类型 Json格式
 
 [链接](https://ding-doc.dingtalk.com/doc#/serverapi2/qf2nxq)
