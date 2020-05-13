@@ -15,7 +15,7 @@ jobs:
           url: ${{ secrets.DINGTALK_WEBHOOK}}
           type: markdown
           content: |
-            # 星光不负赶路人，星际伴你前行！
+            # @超可爱的皮卡丘，你好像对我有点意见，那你说，我到底要隔多长时间推送一次？
             ![icon](https://raw.githubusercontent.com/Galaxy-Studio-Team/sources/master/icon.png)
             ## [星际工作室官网：galaxy-studio.ga](https://galaxy-studio.ga)
             > 星际工作室智能推送
