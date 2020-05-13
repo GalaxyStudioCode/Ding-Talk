@@ -15,7 +15,7 @@ jobs:
           url: ${{ secrets.DINGTALK_WEBHOOK}}
           type: markdown
           content: |
-            # 星光不负赶路人，星际伴你前行！
+            # 笔记多？没关系！星际工作室与您同在！星光不负赶路人，星际伴你前行！
             ![icon](https://raw.githubusercontent.com/Galaxy-Studio-Team/sources/master/icon.png)
             ## [星际工作室官网：galaxy-studio.ga](https://galaxy-studio.ga)
             > 星际工作室智能推送
