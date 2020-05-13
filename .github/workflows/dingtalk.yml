@@ -15,8 +15,7 @@ jobs:
           url: ${{ secrets.DINGTALK_WEBHOOK}}
           type: markdown
           content: |
-            # 星际工作室又出新文章啦
-            ## [Cheat Engine 自带入门教程 (下)](https://galaxy-studio.ga/2020/05/10/cetu2)
+            # 我们对我们频繁推送消息的行为感到十分抱歉，我们从此只会推送重要的消息，希望大家原谅我们，我们不希望与大家产生矛盾
             ![icon](https://raw.githubusercontent.com/Galaxy-Studio-Team/sources/master/Cheat-Engine.png)
             ## [星际工作室官网：galaxy-studio.ga](https://galaxy-studio.ga)
             > 星际工作室智能推送
