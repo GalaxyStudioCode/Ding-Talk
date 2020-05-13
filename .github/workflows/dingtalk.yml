@@ -15,7 +15,7 @@ jobs:
           url: ${{ secrets.DINGTALK_WEBHOOK}}
           type: markdown
           content: |
-            # 我们对我们频繁推送消息的行为感到十分抱歉，我们从此只会推送重要的消息，希望大家原谅我们，我们不希望与大家产生矛盾
+            # 星光不负赶路人，星际伴你前行！
             ![icon](https://raw.githubusercontent.com/Galaxy-Studio-Team/sources/master/icon.png)
             ## [星际工作室官网：galaxy-studio.ga](https://galaxy-studio.ga)
-            > 星际工作室智能推送——道歉信
+            > 星际工作室智能推送
