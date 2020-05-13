@@ -13,10 +13,7 @@ jobs:
         uses: fifsky/dingtalk-action@master
         with:
           url: ${{ secrets.DINGTALK_WEBHOOK}}
-          type: markdown
+          type: text
           content: |
-            # 好的，保证完成任务！
-            ![icon](https://raw.githubusercontent.com/Galaxy-Studio-Team/sources/master/icon.png)
-            ## [星际工作室官网：galaxy-studio.ga](https://galaxy-studio.ga)
-            > 星际工作室智能推送
+            机器人也会发消息好嘛
             
