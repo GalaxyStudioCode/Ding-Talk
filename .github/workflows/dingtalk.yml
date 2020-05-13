@@ -13,7 +13,10 @@ jobs:
         uses: fifsky/dingtalk-action@master
         with:
           url: ${{ secrets.DINGTALK_WEBHOOK}}
-          type: text
+          type: markdown
           content: |
-            机器人也会发消息好嘛……
-            
+            # 星际工作室又出新文章啦
+            ## [Cheat Engine 自带入门教程 (下)](https://galaxy-studio.ga/2020/05/10/cetu2)
+            ![icon](https://raw.githubusercontent.com/Galaxy-Studio-Team/sources/master/Cheat-Engine.png)
+            ## [星际工作室官网：galaxy-studio.ga](https://galaxy-studio.ga)
+            > 星际工作室智能推送
