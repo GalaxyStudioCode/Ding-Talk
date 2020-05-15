@@ -1,8 +1,8 @@
 name: dingtalk
 
 on:
-  watch:
-    types: [started]
+  release:
+    types: [published]
 
 jobs:
   build:
