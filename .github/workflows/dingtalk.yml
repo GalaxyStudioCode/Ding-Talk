@@ -15,8 +15,8 @@ jobs:
           url: ${{ secrets.DINGTALK_WEBHOOK}}
           type: markdown
           content: |
-            # 麻烦大家填写以下调查问卷，以便我们改进服务方式
-            ## 链接：[https://tp.wjx.top/jq/77704694.aspx](https://tp.wjx.top/jq/77704694.aspx)
-            二维码：
-            ![icon](https://raw.githubusercontent.com/Galaxy-Studio-Team/sources/master/Evaluation/Software-Service.jpg)
+            # 发布频道推送
+            ## 星际工作室第一款 2D 动画游戏 《Getting Over It》 发布
+            ![img](https://raw.githubusercontent.com/Galaxy-Studio-Team/sources/master/Getting-Over-It/image-20200517083537434.png)
+            ### [点击此处立即下载体验](https://galaxy-studio.ga/2020/05/16/GettingOverIt)
             > 星际工作室智能推送
