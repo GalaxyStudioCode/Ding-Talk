@@ -15,9 +15,8 @@ jobs:
           url: ${{ secrets.DINGTALK_WEBHOOK}}
           type: markdown
           content: |
-            # 麻烦大家填写以下调查问卷，以便我们改进服务方式
-            ## 链接：[https://www.wjx.cn/jq/77777331.aspx](https://www.wjx.cn/jq/77777331.aspx)
-            二维码：
-            
-            ![icon](https://raw.githubusercontent.com/Galaxy-Studio-Team/sources/master/Evaluation/Software-service.jpg)
+            # 发布频道推送
+            ### 《Getting Over It》下载方式更改，只需下载一个文件即可
+            ![img](https://raw.githubusercontent.com/Galaxy-Studio-Team/sources/master/Getting-Over-It/image-20200517083537434.png)
+            ### [点击此处立即下载体验](https://galaxy-studio.ga/2020/05/16/GettingOverIt)
             > 星际工作室智能推送
