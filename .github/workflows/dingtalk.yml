@@ -15,4 +15,5 @@ jobs:
           url: ${{ secrets.DINGTALK_WEBHOOK}}
           type: markdown
           content: |
-            # 额，皮卡丘人呢？[疑问]
+            # …… @超可爱的皮卡丘 那我怎么办啊？[大哭]
+            > 星际工作室智能推送
