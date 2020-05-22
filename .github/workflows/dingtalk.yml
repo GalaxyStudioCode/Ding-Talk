@@ -15,7 +15,5 @@ jobs:
           url: ${{ secrets.DINGTALK_WEBHOOK}}
           type: markdown
           content: |
-            #  今日热点推送
-            ### 同志们！今天是新学期第一节信息课！星际工作室为庆祝这节课，特地发送此消息！
-            ### [星际工作室官网](https://galaxy-studio.ga)
+            # …… @超可爱的皮卡丘 那我怎么办啊？[大哭]
             > 星际工作室智能推送
