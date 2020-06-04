@@ -15,7 +15,7 @@ jobs:
           url: ${{ secrets.DINGTALK_WEBHOOK}}
           type: markdown
           content: |
-            # **发布频道推送**
+            # 发布频道推送
             ## 星际工作室魔方游戏正式发布！
             ## 小小魔方，大大梦想。随时随地，享受大千世界！
             ![The-Cube](https://raw.githubusercontent.com/Galaxy-Studio-Team/sources/master/The-Cube.png)
