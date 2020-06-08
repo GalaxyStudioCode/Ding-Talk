@@ -16,13 +16,8 @@ jobs:
           type: markdown
           content: |
             # 发布频道推送
-            
-            ## 星际工作室魔方游戏正式发布！
-            ## 小小魔方，大大梦想。随时随地，享受大千世界！
-            ![The-Cube](https://raw.githubusercontent.com/Galaxy-Studio-Team/sources/master/The-Cube.png)
+            ## Getting Over It 再次发布！
+            ### 本次发布改进了分为3个文件下载的问题，目前只需下载一个文件即可
+            ![Getting-Over-It](https://raw.githubusercontent.com/Galaxy-Studio-Team/sources/master/Getting-Over-It/image-20200517083537434.png)
             ### [点击此处立即体验](https://galaxy-studio.ga/cube)
-            
-            ## 另附赠品：滑稽[嘿嘿]
-            ### [点击此处立即体验](https://galaxy-studio.ga/huaji)
-            
             > 星际工作室智能推送
