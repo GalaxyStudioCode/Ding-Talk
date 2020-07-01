@@ -16,12 +16,7 @@ jobs:
           type: markdown
           content: |
             # 发布频道推送
-            ## 推箱子大作战 v1.4 正式版现在发布！
-            ### 星际工作室 首款控制台游戏 新版再现！
-            v1.4 更新内容：
-            1. 增加帮助、返回、关于页面
-            2. 新增双人模式
-            3. 美化人物、箱子图标，优化画面和内存，提升运行效率
-            ![Push-Box](https://raw.githubusercontent.com/Galaxy-Studio-Team/sources/master/Push%20Box/icon.jpg)
-            ### [点击此处立即体验](https://galaxy-studio.ga/2020/06/12/PushBox1.4)
+            ## 星际工作室连续推出两款球类游戏
+            ![icon](https://raw.githubusercontent.com/Galaxy-Studio-Team/sources/master/icon.png)
+            ### [点击此处立即体验](https://galaxy-studio.ga/2020/07/01/2BallGames)
             > 星际工作室智能推送
