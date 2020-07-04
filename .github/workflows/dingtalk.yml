@@ -15,12 +15,7 @@ jobs:
           url: ${{ secrets.DINGTALK_WEBHOOK}}
           type: markdown
           content: |
-            # 招聘频道推送
-            ## 机会来了！星际工作室将再次扩招！
-            ## 我们将招收：美术部 1人
-            ## 工作：为星际工作室设计logo等
-            ## 要求：有一定美术功底
-            ![icon](https://raw.githubusercontent.com/Galaxy-Studio-Team/sources/master/icon.png)
+            # 星际工作室 Galaxy Studio
+            ![logo](https://raw.githubusercontent.com/Galaxy-Studio-Team/sources/master/Logo-Latest.png)
             ## 星光不负赶路人，星际伴你前行！
-            ## 如果有意向报名，请私信联系郭智康
             > 星际工作室智能推送
