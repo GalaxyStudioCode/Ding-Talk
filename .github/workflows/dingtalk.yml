@@ -16,6 +16,6 @@ jobs:
           type: markdown
           content: |
             # 星际工作室 Galaxy Studio
-            ![logo](https://raw.githubusercontent.com/Galaxy-Studio-Team/sources/master/Logo-Latest.png)
+            ![logo](https://raw.githubusercontent.com/Galaxy-Studio-Team/sources/master/icon.png)
             ## 星光不负赶路人，星际伴你前行！
             > 星际工作室智能推送
