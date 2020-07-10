@@ -12,7 +12,10 @@ jobs:
       - name: dingtalk robot message
         uses: fifsky/dingtalk-action@master
         with:
-          url: https://oapi.dingtalk.com/robot/send?access_token=6adf638245e57888811a0e58d5c9924d84999f0114f9815484a76f160d3b34bf
+          url: ${{ secrets.DINGTALK_WEBHOOK}}
           type: markdown
           content: |
-            # Against-the-Wind is Testing me.
+            # 星际工作室 Galaxy Studio
+            ![logo](https://raw.githubusercontent.com/Galaxy-Studio-Team/sources/master/Logo-Latest.png)
+            ## 星光不负赶路人，星际伴你前行！
+            > 星际工作室智能推送
