@@ -12,7 +12,7 @@ jobs:
       - name: dingtalk robot message
         uses: fifsky/dingtalk-action@master
         with:
-          url: ${{ https://oapi.dingtalk.com/robot/send?access_token=a6ee513144cc7f41f115afb1181191a2240116b4d6fd23586b9e20da63fbcb67}}
+          url: https://oapi.dingtalk.com/robot/send?access_token=a6ee513144cc7f41f115afb1181191a2240116b4d6fd23586b9e20da63fbcb67
           type: markdown
           content: |
             # 啊
