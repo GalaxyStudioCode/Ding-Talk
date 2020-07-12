@@ -12,10 +12,7 @@ jobs:
       - name: dingtalk robot message
         uses: fifsky/dingtalk-action@master
         with:
-          url: ${{ secrets.DINGTALK_WEBHOOK}}
+          url: ${{ https://oapi.dingtalk.com/robot/send?access_token=a6ee513144cc7f41f115afb1181191a2240116b4d6fd23586b9e20da63fbcb67}}
           type: markdown
           content: |
-            # 星际工作室 Galaxy Studio
-            ![logo](https://raw.githubusercontent.com/Galaxy-Studio-Team/sources/master/icon.png)
-            ## 星光不负赶路人，星际伴你前行！
-            > 星际工作室智能推送
+            # 啊
