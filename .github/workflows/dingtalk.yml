@@ -12,6 +12,6 @@ jobs:
       - name: dingtalk robot message
         uses: fifsky/dingtalk-action@master
         with:
-          url: https://oapi.dingtalk.com/robot/send?access_token=f170aa1ee34122175a0d4a741a9b716416bacede58783ff2dd690139e50311bf
+          url: https://oapi.dingtalk.com/robot/send?access_token=00072b8f082b5b02d21ffb76f497bf186559877169717a5075e6030e30864609
           content: |
-            #### @杨叶晨 还没想好。
+            ## @杨叶晨 还没想好。
