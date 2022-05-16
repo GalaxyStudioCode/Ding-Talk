@@ -12,6 +12,6 @@ jobs:
       - name: dingtalk robot message
         uses: fifsky/dingtalk-action@master
         with:
-          url: https://oapi.dingtalk.com/robot/send?access_token=00072b8f082b5b02d21ffb76f497bf186559877169717a5075e6030e30864609
+          url: https://oapi.dingtalk.com/robot/send?access_token=6abdc4bfed1dd20c9d3a5d52894a1bb197e60971c5326b838cd5b3e9a5b1b5a4
           content: |
-            # @郭智康 我也不知道刚才发生了什么……
+            # @郭智康 OK.
