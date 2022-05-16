@@ -14,4 +14,4 @@ jobs:
         with:
           url: https://oapi.dingtalk.com/robot/send?access_token=6abdc4bfed1dd20c9d3a5d52894a1bb197e60971c5326b838cd5b3e9a5b1b5a4
           content: |
-           @石昕宇 你的虚拟背景是什么？
+           @杨叶晨 ？
