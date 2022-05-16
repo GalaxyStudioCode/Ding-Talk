@@ -12,7 +12,6 @@ jobs:
       - name: dingtalk robot message
         uses: fifsky/dingtalk-action@master
         with:
-          url: https://oapi.dingtalk.com/robot/send?access_token=a6ee513144cc7f41f115afb1181191a2240116b4d6fd23586b9e20da63fbcb67
-          type: markdown
+          url:https://oapi.dingtalk.com/robot/send?access_token=f170aa1ee34122175a0d4a741a9b716416bacede58783ff2dd690139e50311bf
           content: |
-            # 群里好冷啊......
+            # @张殿禹（张殿禹）tql！
