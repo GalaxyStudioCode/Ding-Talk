@@ -15,4 +15,4 @@ jobs:
           url: https://oapi.dingtalk.com/robot/send?access_token=00072b8f082b5b02d21ffb76f497bf186559877169717a5075e6030e30864609
           type: markdown
           content: |
-           ### 我记忆错乱了。
+           @郭智康 我觉得你说的对。
