@@ -15,4 +15,4 @@ jobs:
           url: https://oapi.dingtalk.com/robot/send?access_token=8aafd8f6a36168dcf1c111d4c7135e7c76854676e2702cfd4e906b37c7ea6b34
           type: markdown
           content: |
-           作业我晚点会发到答疑群里的，不要一腔头做完！
+           作业我晚点会发到答疑群里的！
