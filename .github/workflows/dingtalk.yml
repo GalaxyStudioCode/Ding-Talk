@@ -15,4 +15,4 @@ jobs:
           url: https://oapi.dingtalk.com/robot/send?access_token=d6eb1bc323f43017f33727f197f392ce5e793e5c7003f6c39234bc67fc01f42e
           type: markdown
           content: |
-            # 遇到问题，这里留言问我，保证下午上课使用！
+            # 错的是五花八门，非常奇葩的都有。
