@@ -15,4 +15,4 @@ jobs:
           url: https://oapi.dingtalk.com/robot/send?access_token=8f8fc42f0d7ae1923c9323f77b9a8c354ce4d0d4385a180cc344818c16002e12
           type: markdown
           content: |
-            # 在听吗？
+            # 可以去喝点水，吃点东西，大家轻松轻松。
