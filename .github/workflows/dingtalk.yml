@@ -12,7 +12,7 @@ jobs:
       - name: dingtalk robot message
         uses: fifsky/dingtalk-action@master
         with:
-          url: https://oapi.dingtalk.com/robot/send?access_token=8f8fc42f0d7ae1923c9323f77b9a8c354ce4d0d4385a180cc344818c16002e12
+          url: https://oapi.dingtalk.com/robot/send?access_token=d6eb1bc323f43017f33727f197f392ce5e793e5c7003f6c39234bc67fc01f42e
           type: markdown
           content: |
-            # 可以去喝点水，吃点东西，大家轻松轻松。
+            # 遇到问题，这里留言问我，保证下午上课使用！
