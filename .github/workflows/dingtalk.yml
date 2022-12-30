@@ -12,7 +12,7 @@ jobs:
       - name: dingtalk robot message
         uses: fifsky/dingtalk-action@master
         with:
-          url: https://oapi.dingtalk.com/robot/send?access_token=d6eb1bc323f43017f33727f197f392ce5e793e5c7003f6c39234bc67fc01f42e
+          url: https://oapi.dingtalk.com/robot/send?access_token=00072b8f082b5b02d21ffb76f497bf186559877169717a5075e6030e30864609
           type: markdown
           content: |
-            # 错的是五花八门，非常奇葩的都有。
+            # 你前两天做的就忘了，是你自己做的吗？
