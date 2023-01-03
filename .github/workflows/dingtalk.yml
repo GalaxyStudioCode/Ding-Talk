@@ -12,7 +12,7 @@ jobs:
       - name: dingtalk robot message
         uses: fifsky/dingtalk-action@master
         with:
-          url: https://oapi.dingtalk.com/robot/send?access_token=00072b8f082b5b02d21ffb76f497bf186559877169717a5075e6030e30864609
+          url: https://oapi.dingtalk.com/robot/send?access_token=7ad729aaf57c8f0fcd8c41b8c24e7dc2298b942c1909a51230ea457d205b54b9
           type: markdown
           content: |
-            # 你前两天做的就忘了，是你自己做的吗？
+            # 答案不要闭上眼睛写！
